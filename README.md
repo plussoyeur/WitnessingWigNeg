@@ -1,2 +1,2 @@
-# [Zeilberger's algorithm]( WitnessingWigNeg/Zeilberger_implemenation_feasibility.nb )
+# [Zeilberger's algorithm](Zeilberger_implemenation_feasibility.nb)
 
