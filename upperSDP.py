@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-@author: pemeriau
-
 Implementation of the hierarchy of UPPER bounds
 
 Our targeted witness is the fidelity with a single Fock state |n> but the code
