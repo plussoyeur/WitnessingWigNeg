@@ -64,7 +64,7 @@ for l in np.arange(1,m+1):
 # SDP constraint
 P.add_constraint(Q >> 0)
 
-## Save SDP as dat-s to save it later with SDPA
+## Save SDP as dat-s to run it later with SDPA
 filename = 'lower_'+str(n)+'_'+str(m)+'dat-s'
 P.write_to_file(filename)
 
